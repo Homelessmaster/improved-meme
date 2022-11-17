@@ -1,0 +1,15 @@
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\bin\Debug\net6.0\9Seminar.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\bin\Debug\net6.0\9Seminar.deps.json
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\bin\Debug\net6.0\9Seminar.runtimeconfig.json
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\bin\Debug\net6.0\9Seminar.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\bin\Debug\net6.0\9Seminar.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.AssemblyInfoInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.AssemblyInfo.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\refint\9Seminar.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\9Seminar.genruntimeconfig.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Courses\programming\GeekBrains\1 quarter\Introduction to programming languages\homework\9Seminar\obj\Debug\net6.0\ref\9Seminar.dll
